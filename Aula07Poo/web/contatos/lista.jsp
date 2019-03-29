@@ -48,7 +48,7 @@
     <body>
         <h1>WebApp</h1>
         <h2>Contatos</h2>
-        <h1>HUEEEEEEEEEEEEEEEEEEEEEEEEEEE</h1>
+        <h1>HUEEEEEEEEEEEE</h1>
         <form action="adicionar.jsp">
             <input type="submit" value="Adicionar">
         </form>
